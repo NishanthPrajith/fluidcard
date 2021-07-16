@@ -1,16 +1,13 @@
-# fluidcard
+# Fluid Card
 
-A new Flutter project.
+### About
 
-## Getting Started
+The is a simple flutter UI design that was inspired by a design from dribble. [Dribble link](https://dribbble.com/shots/15177651-Fluid-Card-in-UI-Trailer).
+Althought, this interaction is not perfect it was hard coded to create the effect instead of using something like the 'slimy card' package. 
 
-This project is a starting point for a Flutter application.
+### Running The project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+cd fluidcard
+flutter run
+```
